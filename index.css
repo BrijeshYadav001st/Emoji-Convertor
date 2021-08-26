@@ -1,0 +1,50 @@
+.main-body{
+    width: 45vw;
+    height: 45vh;
+    background-color: rgba(0, 0, 255, 0.486);
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    border-radius: 2ch;
+}
+
+.main-body-header{
+    width: 45vw;
+    height: 8vh;
+    background-color: rgb(224, 85, 85);
+
+}
+
+.header-text{
+    padding-top: 3px;
+    text-align: center;
+}
+.search-emoji{
+    
+    margin-top: 3ch;
+    height: 6vh;
+    width: 25vw;
+    position: fixed;
+    top: 30%;
+    left: 48%;
+    transform: translate(-50%,-50%);
+    border-radius: 2vh;
+}
+.search-info{
+    height: 5vh;
+    width: 26vw;
+    border-radius: 1.5vh;
+    padding-left:1ch;
+}
+.display-box{
+    margin-top:17ch;
+    position: fixed;
+    top: 20%;
+    left: 17%;
+    height: 15vh;
+    width: 30vw;
+    background-color: azure;
+    border-radius: 0.5ch;
+  
+}
